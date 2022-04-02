@@ -1,2 +1,2 @@
 # portfolio
-Compilation of Data Science Projects
+Compilation of Projects
